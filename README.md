@@ -2,7 +2,7 @@
 
 Plant a few point clouds, then watch cluster centres find their way home one iteration at a time.
 
-
+ https://raeeskasim1.github.io/kmeans-garden/
 
 ## Try it
 
